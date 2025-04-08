@@ -1,0 +1,12 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+*.xcodeproj
+
+# Firebase configuration
+GoogleService-Info.plist
+
+# macOS system files
+.DS_Store
+
